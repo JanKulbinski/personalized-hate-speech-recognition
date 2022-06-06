@@ -1,3 +1,8 @@
+data/
+preprocessing/agreement_metrics.py
+preprocessing/prepeartion.ipynb
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
